@@ -1,6 +1,6 @@
 # Raining_Predict
 
-透過train.xlsx進行訓練，
+透過train.csv進行訓練，
 
 當中的檔案皆為各地氣象站的資料，
 
